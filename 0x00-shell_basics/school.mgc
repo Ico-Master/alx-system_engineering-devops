@@ -1,1 +1,1 @@
-file i -m school.mgc School* 
+file -C -m school.mgc School.* 
