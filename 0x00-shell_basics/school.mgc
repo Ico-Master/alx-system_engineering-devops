@@ -1,1 +1,2 @@
 file -i -s School
+file -f School
