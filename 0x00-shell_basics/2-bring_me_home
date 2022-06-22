@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo $HOME                                                                                                                  
-=======
-echo $HOME                                                                                                                                 
->>>>>>> 7fb2048f21ee92e567049538ead11b6a3c02bab8
+cd 
