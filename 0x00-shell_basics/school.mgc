@@ -1,2 +1,2 @@
-file -C -F -i -m school *School 
+file School 
 
