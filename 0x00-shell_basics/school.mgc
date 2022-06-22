@@ -1,2 +1,1 @@
-file -i -s School
-file -f -s School
+file -f School 
