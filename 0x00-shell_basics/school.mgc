@@ -1,2 +1,3 @@
-file -i -m .mgc * 
+#!/bin/bash
+file -C -m .mgc  
 
