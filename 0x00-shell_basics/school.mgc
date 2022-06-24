@@ -1,2 +1,2 @@
-file -i School 
+file -i -m .mgc * 
 
